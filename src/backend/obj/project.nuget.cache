@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJUjsQ9RBMk=",
+  "success": true,
+  "projectFilePath": "/Users/n-satou/MyProjects/VibePM/vibeProjectManagement/src/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/n-satou/.nuget/packages/microsoft.aspnetcore.openapi/11.0.0-preview.2.26159.112/microsoft.aspnetcore.openapi.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "/Users/n-satou/.nuget/packages/microsoft.openapi/3.3.1/microsoft.openapi.3.3.1.nupkg.sha512",
+    "/Users/n-satou/.nuget/packages/stylecop.analyzers/1.2.0-beta.556/stylecop.analyzers.1.2.0-beta.556.nupkg.sha512",
+    "/Users/n-satou/.nuget/packages/stylecop.analyzers.unstable/1.2.0.556/stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512"
+  ],
+  "logs": []
+}
